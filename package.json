@@ -1,0 +1,14 @@
+{
+  "name": "node-consul-client",
+  "version": "0.0.1",
+  "description": "Simple Consul client for Node.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Kravinsky <me@ori0n.net>",
+  "license": "MIT"
+}
